@@ -15,7 +15,7 @@ public class CreatePlayerReq {
     private String currencyCode;
     private String email;
     private String name;
-    @JsonProperty("passwordChange")
+    @JsonProperty("password_change")
     private String passwordChange;
     @JsonProperty("password_repeat")
     private String passwordRepeat;
