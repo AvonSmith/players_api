@@ -1,0 +1,5 @@
+allure-results/
+target/
+.idea
+framework.properties
+.DS_Store
